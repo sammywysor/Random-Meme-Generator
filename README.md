@@ -1,2 +1,1 @@
-# Random-Meme-Generator
-Random meme Generator [a small project using JavaSCript]
+[Random Meme Generator (Click Me!)]https://sammywysor.github.io/Random-Meme-Generator/
